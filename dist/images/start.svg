@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <path d="M16 2C10.4772 2 6 6.47715 6 12C6 17.5228 10.4772 22 16 22C21.5228 22 26 17.5228 26 12C26 6.47715 21.5228 2 16 2Z" fill="#0B2626" stroke="#B2FFFF" stroke-width="2"/>
+  <path d="M16 30L12 22H20L16 30Z" fill="#B2FFFF"/>
+  <circle cx="16" cy="12" r="6" fill="#B2FFFF"/>
+  <text x="16" y="14.5" font-family="Arial" font-size="8" font-weight="bold" text-anchor="middle" fill="#0B2626">起</text>
+</svg> 
